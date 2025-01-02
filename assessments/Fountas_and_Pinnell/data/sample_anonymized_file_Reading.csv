@@ -1,0 +1,10 @@
+DistrictCode,TestAdministration,DateTaken,SchoolCode,ID,StudentID,GradeLevel,TextReading,TextReadingAccuracy,Comprehension,LexileLevel,TransferItemID,FluencyLevel,WordsPerMinute,ComprehensionLevel,TextReadingAccuracy2,Comprehension2,Genre,Source,SelfCorrectionRate,Meaning,Visual,EarlyLiteracyBehaviors,LetterRecognition,InitialSounds,HighFrequencyWords,WordWriting,RhymingAssessment,WasStudentTested
+1234,,09/25/18,1,,41879,1,F,93,,26-199,,2,12,Approaching Proficiency,93,6,Nonfiction,Manually Entered,3.200000048,1,1,1,1,1,1,1,1,NULL
+1234,,09/25/18,1,,44982,3,P,95,50,500-699,,2,11,Limited Proficiency,95,1,Fiction,Manually Entered,NULL,2,2,2,2,2,2,2,2,NULL
+1234,,09/25/18,1,,24005,1,H,90,88,26-199,,2,13,Proficient,90,6,Nonfiction,Manually Entered,4.099999905,4,4,4,4,4,4,4,4,NULL
+1234,,09/25/18,1,,23797,4,R,,55,700-749,,1,15,NULL,99,3,NULL,Manually Entered,NULL,6,NULL,6,6,6,NULL,6,6,NULL
+1234,,09/30/16,2,,74713,4,R,NULL,90,700-749,,3,16,NULL,99,3,NULL,Manually Entered,NULL,NULL,3,,NULL,,3,NULL,NULL,NULL
+1234,,05/26/17,2,,43317,4,M,92,95,300-499,,3,16,Satisfactory,98,8,Nonfiction,Manually Entered,1,,,2,,,,,,NULL
+1234,,05/30/17,2,,44982,4,R,91,90,700-749,,3,11,Excellent,100,9,Nonfiction,Manually Entered,1,6,6,NULL,6,NULL,6,6,6,NULL
+1234,,01/25/17,2,,75854,4,S,90,92,700-749,,2,10,NULL,98,4,NULL,Manually Entered,NULL,7,7,7,7,7,7,7,7,NULL
+1234,,05/23/18,2,,71007,4,U,89,66,750-949,,3,9,NULL,100,3,NULL,Manually Entered,NULL,9,9,9,9,9,9,9,9,NULL
